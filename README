@@ -1,3 +1,9 @@
+cubee.github.com/src/css/demo/grid.html
+http://cubee.github.io/src/css/demo/grid.html
+栅格化布局 @Author:乐渔@leyu@taobao.com 
+按照(40xN)-10公式的栅格布局，#doc的宽度为950px，#doc-w的宽度为100%，N=24 使用1280的分辨率来校准栅格
+
+
 Cubee - An enjoyable UI Library
 
  
